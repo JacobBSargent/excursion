@@ -5,5 +5,19 @@ body {
   color: white;
 }
 .link {
+  color: Aquamarine;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 16px;
+}
+.BottomRight {
+  text-align: right;
   color: grey;
+}
+p.UnderHeading {
+  color: grey;
+  font-size: 21px;
 }
