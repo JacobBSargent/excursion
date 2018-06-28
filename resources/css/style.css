@@ -1,4 +1,9 @@
 body {
-  font font-family: Verdana;
+  font-family: Verdana;
   background-color: black;
+  text-align: center;
+  color: white;
+}
+.link {
+  color: grey;
 }
